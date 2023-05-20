@@ -1,3 +1,14 @@
 slprj
 Asw_PMSMCtrl.slxc
 Sim_PMSMCtrl.slxc
+Asw_PMSMCtrl_ert_rtw
+Asw_PMSMCtrl.bin
+Asw_PMSMCtrl.elf
+Asw_PMSMCtrl.hex
+STM32Cube/Core
+STM32Cube/Drivers
+STM32Cube/STM32CubeIDE
+.mxproject
+script
+STM32Cube.ioctmp
+STM32Cube.ioctmprsv
