@@ -1,0 +1,1 @@
+Simulink.saveVars('Asw_PMSMCtrl_Parameters.m')
