@@ -3,10 +3,10 @@ function blkStruct = slblocks
 % should appear in the Library Browser with the 
 % name 'My Library'
 
-    Browser.Library = 'Local_Lib';
+    Browser.Library = 'Lib_Local';
     % 'mylib' is the name of the library
 
-    Browser.Name = 'Local_Lib';
+    Browser.Name = 'Lib_Local';
     % 'My Library' is the library name that appears
     % in the Library Browser
 
