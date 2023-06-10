@@ -13,3 +13,5 @@ STM32Cube/STM32CubeIDE
 script
 STM32Cube.ioctmp
 STM32Cube.ioctmprsv
+Asw_PMSMCtrl_msf.mexw64
+Bsw_PMSMCtrl_SimInput_msf.mexw64
